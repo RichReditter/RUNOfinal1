@@ -24,6 +24,10 @@
   .header-flex-2 {
     display: none;
   }
+
+  .mobile-nav{
+    display: block;
+  }
 }
 @media screen and (max-width: 600px) {
   .banner-info,
